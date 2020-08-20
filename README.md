@@ -1,10 +1,9 @@
-  <div>
+# IMMIOK
+ <div>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sophiacho525@gmail.com)](mailto:mo981014@gmail.com)	
   </div>
-  
-# IMMIOK
 ## Introduction
 School of Computer and Information Engineering, Kwangwoon University ```2017.03 ~ ```
 
