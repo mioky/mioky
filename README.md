@@ -30,4 +30,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Mioky's github stats](https://github-readme-stats.vercel.app/api?username=mioky)](https://github.com/anuraghazra/github-readme-stats)
+
+![Mioky's github stats](https://github-readme-stats.vercel.app/api?username=mioky)](https://github.com/anuraghazra/github-readme-stats)
