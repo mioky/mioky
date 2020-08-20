@@ -4,8 +4,8 @@
 	
   </div>
   
-# IMMIOK
-## 👋 Introduction 👋
+# 👋IMMIOK👋
+## Introduction
 School of Computer and Information Engineering, Kwangwoon University "2017.03 -"
 
 
