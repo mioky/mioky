@@ -6,7 +6,7 @@
   </div>
   
 ### 🌱 Introduction
-School of Computer and Information Engineering, Kwangwoon University ```2017.03 ~ ```
+- School of Computer and Information Engineering, Kwangwoon University ```2017.03 ~ ```
 
 ### 🌱 Activities
 - 광운대학교 KW 해커톤 ``` 2018.10.27 ```
