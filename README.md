@@ -6,10 +6,9 @@
   
 # 👋IMMIOK👋
 ## Introduction
-School of Computer and Information Engineering, Kwangwoon University 	**2017.03 -
+School of Computer and Information Engineering, Kwangwoon University 	**2017.03 -**
 
 
-**aa
 <!--
 **mioky/mioky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
