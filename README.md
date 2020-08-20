@@ -5,10 +5,10 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sophiacho525@gmail.com)](mailto:mo981014@gmail.com)	
   </div>
   
-## Introduction
+### Introduction
 School of Computer and Information Engineering, Kwangwoon University ```2017.03 ~ ```
 
-## Activities
+### Activities
 - 광운대학교 KW 해커톤 ``` 2018.10.27 ```
 - 광운대학교 Design Thinking & TRIZ ``` 2018.09.18 ```
 - 광운대학교 ICS(Information Cyber Security) LAB에서 학부연구생으로 근무 ``` 2019.09 ~ 2020.07 ```
