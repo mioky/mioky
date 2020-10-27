@@ -15,6 +15,8 @@
 - Jonghyeon Cho, Taehun Kim, Soojin Kim, Miok Im, Taehyun Kim, Youngjoo Shin, "Real-Time Detection for Cache Side Channel Attack using Performance Counter Monitor." Applied Sciences, 10(1), 2020
 - 정보처리학회 춘계학술대회 “실시간 모니터링을 이용한 캐시 부채널 공격 탐지 프레임워크” 논문 게재 ```2020.05.08```
 - 산학연계프로젝트 - 딥러닝 경량화 ```2019.06 ~ 2020.05 ```
+- 신호처리합동학술대회 "채널별 개별 합성곱과 그룹화 합성곱을 사용한 PeleeNet 경량화" 논문 게재 ```2020.09.25```
+- 신호처리합동학술대회 "Bottleneck, Shortcut, Grouped convolution을 이용한 MobileNet 경량화" 논문 게재 ```2020.09.25```
 
 <!--
 **mioky/mioky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
